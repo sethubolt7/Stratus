@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36429.23 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StratusAPI", "StratusAPI\StratusAPI.csproj", "{AFD26873-CCA4-49C4-A94A-19A56FF6FFDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFD26873-CCA4-49C4-A94A-19A56FF6FFDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFD26873-CCA4-49C4-A94A-19A56FF6FFDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFD26873-CCA4-49C4-A94A-19A56FF6FFDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFD26873-CCA4-49C4-A94A-19A56FF6FFDF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F554A47C-E372-46B1-BFD1-DD20F088A37E}
+	EndGlobalSection
+EndGlobal

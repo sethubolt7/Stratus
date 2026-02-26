@@ -1,0 +1,20 @@
+# .NET build folders
+bin/
+obj/
+
+# User secrets (local development)
+secrets.json
+
+# Environment variables
+.env
+
+# Visual Studio files
+.vs/
+*.user
+*.suo
+
+# Rider / JetBrains IDE files
+.idea/
+
+# Logs
+*.log
